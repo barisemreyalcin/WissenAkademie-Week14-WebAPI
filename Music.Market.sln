@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music.Market.Api", "Music.Market.Api\Music.Market.Api.csproj", "{6E24333B-B37C-432E-8B61-40C07AEEB8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music.Market.Core", "Music.Market.Core\Music.Market.Core.csproj", "{0ADC8A48-7873-4696-B910-1DC3F50D2442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music.Market.Services", "Music.Market.Services\Music.Market.Services.csproj", "{EC31B42E-E138-44D0-89C0-78EDFBA208D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music.Market.Data", "Music.Market.Data\Music.Market.Data.csproj", "{53434B18-E7AE-4727-B723-1C7C21F07346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E24333B-B37C-432E-8B61-40C07AEEB8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E24333B-B37C-432E-8B61-40C07AEEB8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E24333B-B37C-432E-8B61-40C07AEEB8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E24333B-B37C-432E-8B61-40C07AEEB8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ADC8A48-7873-4696-B910-1DC3F50D2442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADC8A48-7873-4696-B910-1DC3F50D2442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADC8A48-7873-4696-B910-1DC3F50D2442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADC8A48-7873-4696-B910-1DC3F50D2442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC31B42E-E138-44D0-89C0-78EDFBA208D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC31B42E-E138-44D0-89C0-78EDFBA208D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC31B42E-E138-44D0-89C0-78EDFBA208D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC31B42E-E138-44D0-89C0-78EDFBA208D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53434B18-E7AE-4727-B723-1C7C21F07346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53434B18-E7AE-4727-B723-1C7C21F07346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53434B18-E7AE-4727-B723-1C7C21F07346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53434B18-E7AE-4727-B723-1C7C21F07346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {370EC069-E35A-4445-A781-32CC974D35D2}
+	EndGlobalSection
+EndGlobal
